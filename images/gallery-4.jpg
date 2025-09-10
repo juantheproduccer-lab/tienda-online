@@ -1,0 +1,14 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="400" height="300" fill="url(#gradient4)"/>
+<defs>
+<linearGradient id="gradient4" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" style="stop-color:#ef4444;stop-opacity:0.8" />
+<stop offset="100%" style="stop-color:#dc2626;stop-opacity:0.9" />
+</linearGradient>
+</defs>
+<path d="M150 80 L200 60 L250 80 L250 140 L200 160 L150 140 Z" fill="white" opacity="0.2"/>
+<circle cx="200" cy="110" r="25" fill="white" opacity="0.3"/>
+<rect x="175" y="130" width="50" height="8" rx="4" fill="white" opacity="0.4"/>
+<text x="200" y="220" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">Proyecto 4</text>
+<text x="200" y="245" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="white" opacity="0.8">Resultados medibles</text>
+</svg>
